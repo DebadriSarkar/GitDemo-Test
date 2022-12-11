@@ -10,6 +10,6 @@ public class GitController {
 
 	@GetMapping("message")
 	public String getMessage() {
-		return "Welcome to GitHub!";
+		return "Welcome to GitHub-BitBucket!";
 	}
 }
